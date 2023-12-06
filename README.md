@@ -4,7 +4,7 @@
 
 🚃 That human-centered part has led me to a career in software for regional transit
 
-🌱 I’m currently learning PixiJS.  Oh, and I'm knitting a sweater-dress.  Cool
+🌱 I’m currently learning PixiJS and knitting a sweater-dress
 
 <!---
 hannahpurcell/hannahpurcell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
